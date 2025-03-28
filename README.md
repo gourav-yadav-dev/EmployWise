@@ -38,5 +38,5 @@ npm run dev
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/your-username/project-name.git
+   git clone(https://github.com/gourav-yadav-dev/EmployWise)
    cd project-name
